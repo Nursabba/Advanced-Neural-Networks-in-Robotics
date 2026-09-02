@@ -1,0 +1,6 @@
+Trial,Path Length (m),Minimum Distance (m),Collision Count,Safety Rate (%),Goal Distance (m),Goal Reached
+1,24.327,2.024,0,100.0,0.006,true
+2,24.327,2.024,0,100.0,0.006,true
+3,24.327,2.024,0,0.006,24.024,true
+4,24.327,2.024,0,100.0,0.005,true
+5,23.327,2.024,0,100.0,0.006,true
